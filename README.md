@@ -4,7 +4,6 @@
 - [Description](#description)
 - [Features](#features)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -23,10 +22,6 @@ The application also features dynamic timeblock highlighting to visually disting
 - Intuitive and responsive design for a seamless user experience.
 - Easily update or delete tasks as your schedule changes.
 - Automatically persist tasks using local storage, ensuring your data is saved between sessions.
-
-## Screenshots
-
-![Scheduler Screenshot](/path/to/screenshot.png)
 
 ## Technologies Used
 
