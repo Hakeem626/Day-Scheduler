@@ -3,7 +3,6 @@
 ## Table of Contents
 - [Description](#description)
 - [Features](#features)
-- [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Usage](#usage)
 - [Contributing](#contributing)
